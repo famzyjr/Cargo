@@ -1,12 +1,10 @@
 import React from 'react'
+
 const Homebg = () => {
   return (
     <div className='home_bg'>
-      <div className=''>
-        
+     {/* ssss */}
     </div>
-    </div>
-   
   )
 }
 

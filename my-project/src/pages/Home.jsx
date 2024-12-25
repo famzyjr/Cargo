@@ -3,10 +3,9 @@ import Homebg from '../components/Homebg'
 
 const Home = () => {
   return (
-    <div className='home_bg'>
+    <div className=''>
       <Homebg/>
-      n
-      
+      s 
     </div>
   )
 }
